@@ -1,3 +1,4 @@
+# 条件分岐のif文で処理を切り替えよう
 import random
 
 var = random.randint(1,100)
