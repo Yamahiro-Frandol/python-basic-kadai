@@ -1,9 +1,6 @@
 # 課題　関数をつかいこなそう
 
-price = 2000
-tax = 1.1
-
-def calc5():
+def calc5(price, tax):
     return price * tax
 
-print(calc5())
+print(calc5(2000, 1.1))
